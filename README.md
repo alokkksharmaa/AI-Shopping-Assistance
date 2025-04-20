@@ -2,6 +2,12 @@
 
 ShopSmart is a modern e-commerce website with an integrated AI chatbot that suggests products across various categories including electronics, food, clothing, medicine, household goods, and stationery.
 
+
+
+
+### 🌐 Live Demo
+🚀 Check it out live: [tinyurl.com/shopsmartio](https://tinyurl.com/shopsmartio)
+
 ## Features
 
 - **Interactive AI Chatbot**: Suggests products based on user queries
@@ -75,3 +81,10 @@ You can customize the application by:
 ## License
 
 This project is open source and available under the MIT License.
+
+
+
+
+🙌 Author
+Made with ❤️ and high caffeine ☕
+by Alok Sharma
